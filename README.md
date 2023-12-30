@@ -6,7 +6,7 @@ QUESTIONS:
 
 Where str is the parameter or input string, and are viz  
 
-`(uvact)(tech)), (v(vact)) t(ch), (uv((act)(tech)), and (uv((act))(tech))`
+```(uvact)(tech))```, ```(v(vact)) t(ch)```, ```(uv((act)(tech))```, and ```(uv((act))(tech))```
 
 as test cases. 
 
