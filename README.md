@@ -2,14 +2,15 @@ CODING CHALLENGE FOR STAGE 2 – LIVE INTERVIEW SESSION
 
 QUESTIONS: 
 
-1). Given a function, that takes the str parameter being passed and return 1 if the brackets are correctly matched and each one is accounted for. Otherwise return 0. For example: if str is "(hello (world))", then the output should be 1, but if str is "((hello (world))" the output should be 0 because the brackets do not correctly match up. Only "(" and ")" will be used as brackets. If str contains no brackets return 1.  
+1). Given a function, that takes the str parameter being passed and return `1` if the brackets are correctly matched and each one is accounted for. Otherwise return `0`. For example: if str is `"(hello (world))"`, then the output should be 1, but if str is `"((hello (world))"` the output should be `0` because the brackets do not correctly match up. Only `"(" and ")"` will be used as brackets. If str contains no brackets return `1`.  
 
 Where str is the parameter or input string, and are viz  
 
-(uvact)(tech)), (v(vact)) t(ch), (uv((act)(tech)), and (uv((act))(tech))  
+`(uvact)(tech)), (v(vact)) t(ch), (uv((act)(tech)), and (uv((act))(tech))`
 
 as test cases. 
 
+```
 Examples 
 
 Input: "(coder)(byte))" 
@@ -18,24 +19,22 @@ Output: 0
  
 
 Input: "(c(oder)) b(yte)" 
-Output: 1 
+Output: 1
+```
 
- 
-
-NOTE: This question is designed to evaluate candidate’s logic reason in programming. 
 
 2). Design according to an OTP input form in Reactjs to look like this: 
 
+ ![v-otp-input-entry](https://github.com/5ylvino/5ylvino.github.io/assets/61919575/8559e7aa-930d-446f-8189-83e5825b0db5)
+
+
+1. Any box you click on, or your cursor is on it. It should be highlighted in green as shown. 
  
+1. Following the same pattern as (a) it should do the same when deleting. 
 
-Any box you click on, or your cursor is on it. It should be highlighted in green as shown. 
+1. And When OTP 6 digits are pasted, it should automatically enter in its own box position. 
 
-Following the same pattern as (a) it should do the same when deleting. 
-
-And When OTP 6 digits are pasted, it should automatically enter in its own box position. 
-
-Should only accept number only. 
-
-NOTE: This question is designed to evaluate candidate’s ability to (1). follow instruction, (2). he/her knowledge in react vs hook, and (3). efficiency in designing  
+1. Should only accept number only. 
+ 
 
  
