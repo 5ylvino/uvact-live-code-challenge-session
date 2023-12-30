@@ -1,4 +1,5 @@
-`<span style="color:orange;">
+`<div style="background-color:orange;">
+
 CODING CHALLENGE FOR STAGE 2 – LIVE INTERVIEW SESSION 
 
 QUESTIONS: 
@@ -40,4 +41,4 @@ Output: 1
  
 
  
-</span>`
+</div>`
