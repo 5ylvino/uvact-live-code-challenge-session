@@ -6,7 +6,7 @@ QUESTIONS:
 
 Where str is the parameter or input string, and viz  
 
- ```(uv((act))(tech))```
+ ```(uv((act)))(tech))```
 
 as test cases. 
 
