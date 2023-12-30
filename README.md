@@ -28,16 +28,16 @@ Output: 1
 
 ![v-otp-input-entry](https://github.com/5ylvino/5ylvino.github.io/assets/61919575/25c4deb2-4620-4927-b11f-81e8d586eb92)
 
-
-1. Any box you click on, or your cursor is on it. It should be highlighted in green as shown. 
+*Functionality of the OTP input box* \
+a. Any box you click on, or your cursor is on it. It should be highlighted in green as shown. 
  
-1. Following the same pattern as (a) it should do the same when deleting. 
+b. Following the same pattern as (a) it should do the same when deleting. 
 
-1. And When OTP 6 digits are pasted, it should automatically enter in its own box position. 
+c. And When OTP 6 digits are pasted, it should automatically enter in its own box position. 
 
-1. Should only accept number only.  
+c. Should only accept number only.  
 
-1. Every input digit must start from first box
+d. Every input digit must start from first box
 
 Example of box functionality when entering digits, deleting and pasting
 
