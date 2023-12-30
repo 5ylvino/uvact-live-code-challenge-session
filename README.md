@@ -1,5 +1,3 @@
-`<div style="background-color:orange;">
-
 CODING CHALLENGE FOR STAGE 2 – LIVE INTERVIEW SESSION 
 
 QUESTIONS: 
@@ -38,7 +36,4 @@ Output: 1
 1. And When OTP 6 digits are pasted, it should automatically enter in its own box position. 
 
 1. Should only accept number only. 
- 
 
- 
-</div>`
