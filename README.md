@@ -35,5 +35,12 @@ Output: 1
 
 1. And When OTP 6 digits are pasted, it should automatically enter in its own box position. 
 
-1. Should only accept number only. 
+1. Should only accept number only.  
+
+1. Every input digit must start from first box
+
+Example of box functionality when entering digits, deleting and pasting
+
+https://github.com/5ylvino/5ylvino.github.io/assets/61919575/3f2087ab-a998-4d14-be5f-3c3a29b42913
+
 
