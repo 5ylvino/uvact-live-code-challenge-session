@@ -25,7 +25,8 @@ Output: 1
 
 2). Design according to an OTP input form in Reactjs to look like this: 
 
- ![v-otp-input-entry](https://github.com/5ylvino/5ylvino.github.io/assets/61919575/8559e7aa-930d-446f-8189-83e5825b0db5)
+
+![v-otp-input-entry](https://github.com/5ylvino/5ylvino.github.io/assets/61919575/25c4deb2-4620-4927-b11f-81e8d586eb92)
 
 
 1. Any box you click on, or your cursor is on it. It should be highlighted in green as shown. 
